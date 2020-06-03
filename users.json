@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Tiago Bratz Heck",
+    "roles": [
+      {
+        "idRole": 1,
+        "description": "Manager"
+      },
+      {
+        "idRole": 2,
+        "description": "Intern"
+      }
+    ]
+  },
+  {
+    "name": "John Linecker",
+    "roles": [
+      {
+        "idRole": 3,
+        "description": "Assistent"
+      },
+      {
+        "idRole": 2,
+        "description": "Intern"
+      }
+    ]
+  }
+]

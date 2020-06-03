@@ -1,0 +1,14 @@
+[
+  {
+    "idRole": 1,
+    "description": "Manager"
+  },
+  {
+    "idRole": 2,
+    "description": "Intern"
+  },
+  {
+    "idRole": 3,
+    "description": "Assistent"
+  }
+]
